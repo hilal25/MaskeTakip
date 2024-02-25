@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|c:\\users\\hilal\\source\\repos\\masketakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9A697-DB46-4177-BAAC-9DB8D83B4BF5}|Workaround\\Workaround.csproj|c:\\users\\hilal\\source\\repos\\masketakip\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E9A697-DB46-4177-BAAC-9DB8D83B4BF5}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|c:\\users\\hilal\\source\\repos\\masketakip\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|c:\\users\\hilal\\source\\repos\\masketakip\\business\\abstruct\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|solutionrelative:business\\abstruct\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|c:\\users\\hilal\\source\\repos\\masketakip\\business\\abstruct\\iaplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|solutionrelative:business\\abstruct\\iaplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|c:\\users\\hilal\\source\\repos\\masketakip\\business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAE6093-3D71-401A-A402-6DF0DAF2B07F}|Entities\\Entities.csproj|c:\\users\\hilal\\source\\repos\\masketakip\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAE6093-3D71-401A-A402-6DF0DAF2B07F}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Abstruct\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstruct\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Abstruct\\ISupplierService.cs",
+              "RelativeToolTip": "Business\\Abstruct\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:37:32.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Workaround\\Program.cs",
+              "RelativeDocumentMoniker": "Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Workaround\\Program.cs",
+              "RelativeToolTip": "Workaround\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T11:58:47.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Abstruct\\IAplicantService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstruct\\IAplicantService.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Abstruct\\IAplicantService.cs",
+              "RelativeToolTip": "Business\\Abstruct\\IAplicantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:37:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:16:09.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:48:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:25:10.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForeignerManager.cs",
+              "DocumentMoniker": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ForeignerManager.cs",
+              "ToolTip": "C:\\Users\\hilal\\source\\repos\\MaskeTakip\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ForeignerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:47:29.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

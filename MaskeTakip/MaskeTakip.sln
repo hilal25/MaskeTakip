@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{33E9A697-DB46-4177-BAAC-9DB8D83B4BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{6FAE6093-3D71-401A-A402-6DF0DAF2B07F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E9A697-DB46-4177-BAAC-9DB8D83B4BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E9A697-DB46-4177-BAAC-9DB8D83B4BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E9A697-DB46-4177-BAAC-9DB8D83B4BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E9A697-DB46-4177-BAAC-9DB8D83B4BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAE6093-3D71-401A-A402-6DF0DAF2B07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAE6093-3D71-401A-A402-6DF0DAF2B07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAE6093-3D71-401A-A402-6DF0DAF2B07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAE6093-3D71-401A-A402-6DF0DAF2B07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA7AD4F-C19E-4E20-82D6-57C5F927B308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {431493B6-0CCB-459D-B5F2-55819A2A424D}
+	EndGlobalSection
+EndGlobal
